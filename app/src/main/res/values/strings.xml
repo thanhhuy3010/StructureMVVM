@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="move_screen">Move</string>
+    <string name="connection_status">Connection Status:</string>
+    <string name="tablet_id">Tablet Id:</string>
+</resources>
